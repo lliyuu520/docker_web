@@ -1,0 +1,6 @@
+server:
+  port: 8094
+  context-path: /docker_web
+spring:
+  jackson:
+    date-format:  yyyy-MM-dd HH:mm:ss
